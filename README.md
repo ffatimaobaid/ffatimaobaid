@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FBC2EB,100:A6C1EE&height=220&section=header&text=Hi,%20I'm%20Fatima!&fontSize=48&fontColor=4A4453&fontAlignY=45&animation=twinkling&desc=AI%20Engineer%20%E2%9C%A8%20LLM%20%26%20Agentic%20Systems&descSize=20&descAlignY=65&descColor=5C5470" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FBC2EB,100:A6C1EE&height=220&section=header&text=Hi,%20I%27m%20Fatima!&fontSize=48&fontColor=4A4453&fontAlignY=45&animation=twinkling&desc=AI%20Engineer%20%E2%9C%A8%20LLM%20%26%20Agentic%20Systems&descSize=20&descAlignY=65&descColor=5C5470" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&duration=3000&pause=1000&color=B084CC&center=true&vCenter=true&width=500&lines=building+with+LangGraph+%2B+RAG+%F0%9F%A4%8D;shortlisted+at+FAST's+Career+Expo+%F0%9F%8E%80;always+debugging%2C+never+giving+up+%F0%9F%8C%B7" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&duration=3000&pause=1000&color=B084CC&center=true&vCenter=true&width=500&lines=building+with+LangGraph+%2B+RAG+%F0%9F%A4%8D;shortlisted+at+FAST%27s+Career+Expo+%F0%9F%8E%80;always+debugging%2C+never+giving+up+%F0%9F%8C%B7" />
 
 </div>
 
