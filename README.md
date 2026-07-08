@@ -8,7 +8,7 @@
 
 ### 🕹️ player info
 
-hi, i'm an AI graduate (FAST-NUCES 🎓) who builds things that actually *think* — multi-agent systems, RAG pipelines, and voice AI. currently grinding through AI/ML job applications while side-questing on new agentic projects.
+hi, i'm an AI graduate (FAST-NUCES 🎓) who builds things that actually *think*, multi-agent systems, RAG pipelines, and voice AI. currently grinding through AI/ML job applications while side-questing on new agentic projects.
 
 ```
 CLASS      : AI Engineer
