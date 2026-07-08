@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner_pixel.png" width="100%"/>
+<img src="./assets/banner_pixel_anim.svg" width="100%"/>
 
 </div>
 
@@ -72,5 +72,5 @@ turns written stories into expressive narrated audio in Urdu, Roman Urdu & Engli
 <br>
 
 <div align="center">
-<img src="./assets/footer_pixel.png" width="100%"/>
+<img src="./assets/footer_pixel_anim.svg" width="100%"/>
 </div>
