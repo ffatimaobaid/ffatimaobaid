@@ -71,19 +71,6 @@ turns written stories into expressive narrated audio in Urdu, Roman Urdu & Engli
 
 <br>
 
-<br>
-
-### 📊 high score — stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=ffatimaobaid&background=1A162D&border=FF6EC7&stroke=FF6EC7&ring=FF6EC7&fire=FFE66D&currStreakNum=FF6EC7&sideNums=FF6EC7&currStreakLabel=6EE7FF&sideLabels=6EE7FF&dates=9CA3C7&border_radius=0" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffatimaobaid&layout=compact&langs_count=8&hide_border=false&bg_color=1A162D&border_color=FF6EC7&title_color=FF6EC7&text_color=6EE7FF&border_radius=0&title=Most+Used+Languages" height="170"/>
-
-</div>
-
-<br>
-
 ### 🐍 contribution snake
 
 <div align="center">
